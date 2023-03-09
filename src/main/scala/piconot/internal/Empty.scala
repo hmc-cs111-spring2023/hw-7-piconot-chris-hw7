@@ -8,7 +8,7 @@ import piconot.internal._
   * the picolib library that you might need to implement your language
   */
 
-object EmptyTest extends Implementation() {
+object EmptyTest extends Implementation {
 
   LOAD("EMPTY")
 
